@@ -10,3 +10,5 @@ This project is a visually appealing **Amazon homepage clone**, crafted using **
 5. **🌟 Elegant Hover Effects**: Borders, padding, and transitions make interactions intuitive and stylish.  
 
 Perfect for showcasing CSS skills and modern design techniques.
+
+Visit -- https://amazon-clone-lime-pi.vercel.app/
